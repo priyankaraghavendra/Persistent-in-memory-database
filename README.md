@@ -17,7 +17,7 @@
 ## Project Schema
 
 <p align="center">
-  <img src="https://github.com/Shai1436/mydb/blob/cli_app/DBSchema.jpg" alt="Sublime's custom image"/>
+  <img src="https://github.com/js-shashwath/Persistent-in-memory-database/blob/main/DBSchema.jpg" alt="DB schema"/>
 </p>
 
 ## Available Scripts
